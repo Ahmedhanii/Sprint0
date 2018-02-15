@@ -1,0 +1,62 @@
+git init 
+git remote add origin https://github.com/Ahmedhanii/Sprint0.git
+git add .
+git commit -m "Three files uploading"
+git push origin master
+ 
+
+
+git rm -r "SEction 3.1"
+rm 'SEction 3.1/section 3.1.pdf'
+git commit -am "Deleted the file"
+ git push origin master
+
+
+
+ git reset --hard HEAD~
+
+ git push -force origin master
+
+ git push --force origin master
+
+ git branch ReadMe
+
+ git checkout ReadMe
+Switched to branch 'ReadMe'
+
+git commmit -am "Branch and read me pushing"
+git commit -am "Branch and read me pushing"
+
+ git add .
+
+ git commit -m "Branching and adding readme"
+
+
+ git push
+
+    git push --set-upstream origin ReadMe
+
+
+ git push --set-upstream origin ReadMe
+
+
+
+ git branch
+* ReadMe
+  master
+
+ git checkout master
+
+
+ git merge ReadMe
+
+
+ git add .
+
+ git commit -m "Merging"
+
+
+ git push origin master
+
+git commit -am "Adding the all my commands txt"
+git push origin master
