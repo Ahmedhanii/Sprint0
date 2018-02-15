@@ -57,6 +57,6 @@ git commit -am "Branch and read me pushing"
 
 
  git push origin master
-
-git commit -am "Adding the all my commands txt"
+git add .
+git commit -m "Adding the all my commands txt"
 git push origin master
